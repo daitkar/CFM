@@ -1,0 +1,10 @@
+C:\Users\shailendrad\Desktop\Stage\group.cfm.core\bin\Debug\NLog.config
+C:\Users\shailendrad\Desktop\Stage\group.cfm.core\bin\Debug\group.cfm.core.dll
+C:\Users\shailendrad\Desktop\Stage\group.cfm.core\bin\Debug\group.cfm.core.pdb
+C:\Users\shailendrad\Desktop\Stage\group.cfm.core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shailendrad\Desktop\Stage\group.cfm.core\bin\Debug\NLog.dll
+C:\Users\shailendrad\Desktop\Stage\group.cfm.core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shailendrad\Desktop\Stage\group.cfm.core\bin\Debug\NLog.xml
+C:\Users\shailendrad\Desktop\Stage\group.cfm.core\obj\Debug\group.cfm.core.csprojResolveAssemblyReference.cache
+C:\Users\shailendrad\Desktop\Stage\group.cfm.core\obj\Debug\group.cfm.core.dll
+C:\Users\shailendrad\Desktop\Stage\group.cfm.core\obj\Debug\group.cfm.core.pdb
